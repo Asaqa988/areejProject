@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="8" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-10T22:06:38 EET" name="Default suite" finished-at="2024-06-10T22:07:02 EET" duration-ms="24144">
+    <groups>
+    </groups>
+    <test started-at="2024-06-10T22:06:38 EET" name="Default test" finished-at="2024-06-10T22:07:02 EET" duration-ms="24144">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:MyTestCases@6b53bcc2]" started-at="2024-06-10T22:06:38 EET" name="mySetup" finished-at="2024-06-10T22:06:39 EET" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="get()[pri:1, instance:MyTestCases@6b53bcc2]" started-at="2024-06-10T22:06:39 EET" name="get" finished-at="2024-06-10T22:06:45 EET" duration-ms="6450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method signature="get()[pri:1, instance:MyTestCases@6b53bcc2]" started-at="2024-06-10T22:06:45 EET" name="get" finished-at="2024-06-10T22:06:49 EET" duration-ms="4421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method signature="get()[pri:1, instance:MyTestCases@6b53bcc2]" started-at="2024-06-10T22:06:49 EET" name="get" finished-at="2024-06-10T22:06:54 EET" duration-ms="4284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method signature="get()[pri:1, instance:MyTestCases@6b53bcc2]" started-at="2024-06-10T22:06:54 EET" name="get" finished-at="2024-06-10T22:06:58 EET" duration-ms="4249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method signature="get()[pri:1, instance:MyTestCases@6b53bcc2]" started-at="2024-06-10T22:06:58 EET" name="get" finished-at="2024-06-10T22:07:02 EET" duration-ms="4419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
